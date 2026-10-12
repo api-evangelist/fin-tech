@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/fintech/integrations
+- https://n8n.io/integrations/fintech/
+- https://composio.dev/toolkits/fintech
+- https://monid.ai/tools/fintech
+checked:
+- https://composio.dev/toolkits/fintech
+- https://monid.ai/tools/fintech
+- https://n8n.io/integrations/fintech/
+- https://zapier.com/apps/fintech/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
