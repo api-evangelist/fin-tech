@@ -1,4 +1,4 @@
-aid: fintech
+aid: fin-tech
 deliveryModel:
   model: saas
   open_source: false
@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fintech.png
-name: Fintech
+name: Fin
 description: >-
   Fin (fin.tech) is a crypto-native payments company that lets users and businesses move millions of
   dollars instantly — to other Fin users, directly into bank accounts, or across crypto rails. It
@@ -67,9 +67,9 @@ common:
 - type: PrivacyPolicy
   url: https://www.fin.tech/privacy
 - type: LLMsTxt
-  url: llms/fintech-llms.txt
+  url: llms/fin-tech-llms.txt
 - type: DomainSecurity
-  url: security/fintech-domain-security.yml
+  url: security/fin-tech-domain-security.yml
 x-enrichment:
   date: '2026-07-19'
   status: backfilled

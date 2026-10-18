@@ -210,9 +210,9 @@ artifacts:
   kin/score-2026-09-24T161608.yml:
     method: generated
     evidence: Kin Score snapshot written by score.rb
-  llms/fintech-llms.txt:
+  llms/fin-tech-llms.txt:
     method: searched
     evidence: 'derive-llms-provenance.py: harvested'
-  security/fintech-domain-security.yml:
+  security/fin-tech-domain-security.yml:
     method: unknown
     evidence: no authorship recorded
